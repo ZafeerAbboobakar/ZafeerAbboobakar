@@ -49,7 +49,7 @@ Currently exploring how to build secure, scalable systems while experimenting wi
 ## 📫 Let's Connect
 
 📧 **Email:** zafeer.abboobakar@email.com  
-🔗 **Portfolio:** [zafeerabb.netlify.app](https://zafeerabb.netlify.app)  
+🔗 **Portfolio:** [https://zafeerabboobakar.com/](https://zafeerabboobakar.com/)  
 💼 **LinkedIn:** [linkedin.com/in/zafeer-abboobakar](https://linkedin.com/in/zafeer-abboobakar)
 
 ---
