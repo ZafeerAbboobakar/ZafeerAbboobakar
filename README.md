@@ -53,6 +53,4 @@ Currently exploring how to build secure, scalable systems while experimenting wi
 💼 **LinkedIn:** [linkedin.com/in/zafeer-abboobakar](https://linkedin.com/in/zafeer-abboobakar)
 
 ---
-
-> “Cybersecurity is not just about defense—it's about building trust.” 🔐  
 > _Always learning, always creating._
