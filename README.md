@@ -27,13 +27,13 @@ Currently exploring how to build secure, scalable systems while experimenting wi
 
 ## 🚧 Featured Projects
 
-🔹 **Meme Automation System**  
-‣ Built tools to scrape memes, generate captions, and auto-schedule posts on IG  
-‣ Tech: Python, Meta Business Suite, Scheduling Pipelines
-
-🔹 **Zoo Database Manager**  
-‣ Designed SQL schemas and queries to track animal info and caretaker schedules  
-‣ Tech: PostgreSQL, ER Diagrams, Joins
+🔹 **Personal Portfolio Website**  
+‣ Designed and built a responsive cybersecurity-themed portfolio to showcase my education, work experience, certifications, skills, and projects  
+‣ Created animated terminal-inspired UI elements, Matrix-style visuals, decrypting text effects, and smooth section transitions  
+‣ Integrated a contact form using environment-based configuration for safer deployment  
+‣ Tech: React, Vite, Tailwind CSS, Framer Motion, EmailJS, Vercel  
+‣ Live: [zafeerabboobakar.com](https://zafeerabboobakar.com/)  
+‣ Code: [github.com/ZafeerAbboobakar/zafeer-portfolio-website](https://github.com/ZafeerAbboobakar/zafeer-portfolio-website)
 
 ---
 
