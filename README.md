@@ -1,6 +1,6 @@
 # 👨‍💻 Hey there! I'm Zafeer Abboobakar 👾
 
-🔐 Cybersecurity Enthusiast | 💡 Software Developer in Training | 🛠️ Builder & Tinkerer  
+🔐 AI & Cybersecurity Enthusiast | 🛠️ Builder & Tinkerer  
 📍 Based in 🇨🇦 Toronto | 🎓 Business Technology Management @ TMU (Co-op)
 
 Welcome to my digital playground — where code meets curiosity and memes automate themselves 🤖  
